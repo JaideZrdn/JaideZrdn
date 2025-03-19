@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Jaide Zardin
 - 👀 I'm studying Computer Engineering at UFAM (Universidade Federal do Amazonas)
-- 🌱 I’m currently in the 1º semester
+- 🌱 I’m currently in the 5º semester
 - 💞️ A admirer of physics and poetry
 - 📫 How to reach me jaide.zardin@icomp.ufam.edu.br
 
