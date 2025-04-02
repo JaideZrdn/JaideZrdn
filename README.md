@@ -14,6 +14,9 @@
 [![Group 13 3](https://github.com/user-attachments/assets/3575582d-38b0-43ab-b95a-8059f759ea7d)
 ](https://github.com/JaideZrdn/Spray-Light-The-world-is-your-canvas)
 
+[![icon 1](https://github.com/user-attachments/assets/11f1da59-80fe-43dc-8f0e-eca6bbcae9fe)
+](https://github.com/luanagerber/bingar)
+
 ---
 <!---
 JaideZrdn/JaideZrdn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
