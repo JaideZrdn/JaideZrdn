@@ -11,11 +11,14 @@
 ## Projects
 ----
 
-[![Group 13 3](https://github.com/user-attachments/assets/3575582d-38b0-43ab-b95a-8059f759ea7d)
-](https://github.com/JaideZrdn/Spray-Light-The-world-is-your-canvas)
-
-[![icon 1](https://github.com/user-attachments/assets/11f1da59-80fe-43dc-8f0e-eca6bbcae9fe)
-](https://github.com/luanagerber/bingar)
+<p align="left">
+  <a href="https://github.com/JaideZrdn/Spray-Light-The-world-is-your-canvas">
+    <img src="https://github.com/user-attachments/assets/3575582d-38b0-43ab-b95a-8059f759ea7d" alt="Group 13 3" width="10%" />
+  </a>
+  <a href="https://github.com/luanagerber/bingar">
+    <img src="https://github.com/user-attachments/assets/11f1da59-80fe-43dc-8f0e-eca6bbcae9fe" alt="icon 1" width="10%" />
+  </a>
+</p>
 
 ---
 <!---
