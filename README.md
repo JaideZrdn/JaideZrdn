@@ -65,7 +65,7 @@
     <img src="https://github.com/user-attachments/assets/92472572-c17f-48de-92d0-28e175ef4279" alt="AppIcon 1" width="10%" />
   </a>
   <a href="https://github.com/JaideZrdn/Genogun-Case">
-    <img src="https://github.com/user-attachments/assets/f116ea01-5864-4c29-bede-f9c12b4a0631" alt="512-mac 1" width="11%" />
+    <img src="https://github.com/user-attachments/assets/c8c5a1b8-6010-4b9f-bd4d-24c31f07b494" alt="512-mac 1" width="11%" />
   </a>
 
 </p>
