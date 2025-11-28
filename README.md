@@ -1,18 +1,16 @@
-# Salve salve pessoal, me chamo Jaide!
-
-Estudante de Eng. da Computação (UFAM), Apple Developer Academy, ex‑aluno do Universo Narrado.  
-Desenvolvedor iOS (Swift) que gosta de organização de projetos e de construir coisas do ZERO. Também brinco com text‑to‑SQL, modelagem de bancos e experimentos de ML.
-
----
-
-Interesses & hobbies
-- Texto → código: text‑to‑SQL, banco de dados, ML e arquitetura de software.  
-- Literatura: poesia e conteúdo didático.  
-- Jogos: Hollow Knight e Pokémon.
+# Salve salve pessoal!
+Muito prazer, me chamo Jaide!
+Sou estudante de Eng. da Computação (UFAM), aluno no Apple Developer Academy e ex‑aluno do Universo Narrado.  
+Desenvolvedor iOS (Swift) que gosta de organização de projetos e de simular coisas. Também brinco com text‑to‑SQL e experimentos de ML.
 
 ---
 
-Projetos de Destaque
+**Interesses & hobbies**
+Tenho me interessado bastante academicamente por Machine Learning recentemente, principalmente Deep Learning e LLMs, além disso, tenho sempre a paixão por matemática e física comigo. Agora fora do mundo acadêmico sou um apaixonado por jogos (em especial Pokémon) e poesia (recomendação de leitura: Meu quintal é maior que o mundo).
+
+---
+
+**Projetos de Destaque**
 - Beezzy — Um aplicativo para iOS e watchOS que facilita a divisão das tarefas diárias de uma mãe em período escolar com sua rede de apoio 
 - Spray Light — Um aplicativo para iOS que permite que grafiteiros e entusiastas postem suas artes no mundo real através de _Realidade Aumentada_  
 - LimpAí — Um sistema com dois pontos que conectariam a população de Manaus com a SEMULSP para realização de solicitações de limpezas de lixeiras viciadas
