@@ -20,7 +20,13 @@ Projetos de Destaque
 
 ---
 
-Contato
-- LinkedIn — https://www.linkedin.com/in/jaide-zardin-b5a39528b/  
-- Medium — https://medium.com/@jdzardin  
-- Email — jaide.zardin@icomp.ufam.edu.br
+**Contato**: \
+<a href="mailto:jaide.zardin@icomp.ufam.edu.br">
+  <img width="100" height="100" alt="Gmail" src="https://github.com/user-attachments/assets/6f9810de-33d5-4bfc-897c-c0bd9baa27d4" />
+</a>
+<a href="https://www.linkedin.com/in/jaide-zardin-b5a39528b/">
+  <img width="100" height="100" alt="LinkedIn" src="https://github.com/user-attachments/assets/23b6d9f0-1e24-42a0-a66d-236f0267beff" />
+</a>
+<a href="https://medium.com/@jdzardin">
+  <img width="100" height="100" alt="Medium" src="https://github.com/user-attachments/assets/45166c88-fe71-4ced-8f33-2ce92ae99b67" />
+</a>
